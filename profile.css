@@ -1,0 +1,82 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  text-align: center;
+
+}
+
+
+h1 {
+    font: 500 50px 'Open Sans', sans-serif;
+    font-style: italic;
+
+
+}
+
+.containet{
+  margin: 0 auto;
+width: 960px;
+}
+
+
+.head {
+        background-color: grey ;
+
+    overflow: hidden;
+    height: 150px;
+
+
+}
+
+ nav {
+display: block;
+
+color: white ;
+}
+
+nav {
+
+    padding: 5px ;
+}
+
+li a {
+  color : black ;
+  text-decoration: none;
+
+}
+li a:hover {
+    color :white ;
+    display: inline ;
+    text-decoration: none;
+}
+
+h2 {
+      text-align: center;
+
+
+}
+
+
+
+li {
+    display: inline ;
+    margin-right: 15px ;
+    font-size: 19px ;
+    font-variant: small-caps;
+    text-decoration: none;
+}
+
+p {
+      font-size: 15px ;
+
+}
+.profile img {
+    height: 200px ;
+    width : 200px ;
+    clear: both;
+    padding: 50px ;
+
+
+
+}
